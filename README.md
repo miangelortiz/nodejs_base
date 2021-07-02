@@ -1,5 +1,7 @@
 # NODEJS BASE PROJECT
-## dotenv_mariadb_winston_danger_mocha_standard
+## NodeJs base project example
+### Dependencies: dotenv, mariadb, winston  
+### Dev dependencies: dangerJs, mochaJs, standardJs
 
 We'll be using [standard js](https://standardjs.com/) as style guide, linter and formatter.   
 
