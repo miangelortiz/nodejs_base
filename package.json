@@ -1,0 +1,30 @@
+{
+  "name": "daq_energy_alarms",
+  "version": "1.0.0",
+  "description": "EnergyCcM alarms management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npx standard && npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/energyccm/daq_energy_alarms.git"
+  },
+  "author": "Miguel Angel Ortiz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/energyccm/daq_energy_alarms/issues"
+  },
+  "homepage": "https://gitlab.com/energyccm/daq_energy_alarms#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mariadb": "^2.5.3",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "danger": "^10.6.2",
+    "mocha": "^8.3.0",
+    "standard": "^16.0.3"
+  }
+}
