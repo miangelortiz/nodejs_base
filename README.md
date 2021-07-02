@@ -3,6 +3,7 @@
 ### Dependencies: dotenv, mariadb, winston  
 ### Dev dependencies: dangerJs, mochaJs, standardJs
 
+---
 We'll be using [standard js](https://standardjs.com/) as style guide, linter and formatter.   
 
 Take a look at the web page, the module is installed with the project automatically (in dev only).  

@@ -1,7 +1,7 @@
 {
-  "name": "daq_energy_alarms",
-  "version": "1.0.0",
-  "description": "EnergyCcM alarms management",
+  "name": "nodejs_base_project",
+  "version": "0.0.1",
+  "description": "NodeJs base project example",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/energyccm/daq_energy_alarms.git"
+    "url": "git+https://github.com/miangelortiz/nodejs_base.git"
   },
   "author": "Miguel Angel Ortiz",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://gitlab.com/energyccm/daq_energy_alarms/issues"
   },
-  "homepage": "https://gitlab.com/energyccm/daq_energy_alarms#readme",
+  "homepage": "https://gitlab.com/energyccm/daq_energy_alarms",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mariadb": "^2.5.3",
