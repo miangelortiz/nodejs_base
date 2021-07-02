@@ -14,9 +14,9 @@
   "author": "Miguel Angel Ortiz",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://gitlab.com/energyccm/daq_energy_alarms/issues"
+    "url": "https://github.com/miangelortiz/nodejs_base/issues"
   },
-  "homepage": "https://gitlab.com/energyccm/daq_energy_alarms",
+  "homepage": "https://github.com/miangelortiz/nodejs_base",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mariadb": "^2.5.3",
